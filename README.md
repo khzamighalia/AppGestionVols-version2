@@ -20,7 +20,7 @@ Now Connecting Database
 ```
  4th Step: Open a browser and go to URL "http://localhost/phpmyadmin/"
  5th Step: Then, click on the databases tab
- 6th Step: Create a database naming "gvol" and then click on the import tab
+ 6th Step: Create a database naming "gestion_reservations" and then click on the import tab
  7th Step: Click on browse file and select "gestion_reservations.sql" file which is inside the folder
  8th Step: Click on go.
 ```
